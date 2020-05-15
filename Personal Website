@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Nianhuan Chen</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+	<!--Using-FontAwesome---------------->
+<script src="http://kit.fontawesome.com/c8e4d183c2.js"
+crossorigin="anonymous"></script>
+</head>
+
+<body>
+	<section>
+		<!--navigation------------------->
+			<nav>
+			<!--logo-->
+			<a href="#" class="logo"> UT Dallas</a>
+			<!--menu-->
+			<ul>
+			<li><a href="#" class="active">Home</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Contact me</a></li>
+			<li><a href="#">Team</a></li>
+			</ul>
+			</nav>
+		<!--text------------------------>
+			<div class="text-container">
+				<p>Hello,</p>
+				<p>I'm Nianhuan Chen</p>
+				<p>I am a Senior at UTDallas, majoring in Computer Science</p>
+				<button class="hire-btn">Contact me</button>
+				<button class="down-cv">Download CV</button>
+			</div>
+		<!--model--------------------->
+			<img src="i.jpg" class="model" alt="model">
+	</section>
+	<!--about-section------------------>
+	<div class="about-container">
+	<!--img---------------------------->
+		<img src="image1.jpg">
+	<!--about-text--------------------->
+		<div class="about-text">
+		<p>About Me</p>
+		<p>Developer & Designer</p>
+		<p>I'm a senior at the University of Texas at Dallas, majoring in Computer Science. 
+		Ever since I was a kid, I've always wanted to design things: designning a banner in 
+		paint, designning cartoons while watching, designning games while playing. This interest
+		and a strong push from my mind led me to start learning how to make basic websites at my leisure.		
+		</p>
+		<p>Now I am able to create my own website. I learned how to customize my own pages
+		based on fonts, colors, and combinations of colors. I can now create a better looking site
+		with a smoother user experience. I have greatly enjoyed the learning process.			
+		</p>
+		<!--button--------------------->
+		<button>Hire Me</button>
+		<button>Download CV</button>
+		</div>
+	</div>
+	<!--services----------------------->
+	<div class="services">
+		<div class="services-text">
+			<p>Community Services</p>
+			<p>Services Required</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			</p>
+		</div>
+		<div class="box-container">
+		<!--1--------------------------->
+			<div class="box-1">
+				<span>1</span>
+				<p class="heading">Courses</p>
+				<p class="details">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur.</p>
+				<button>Read More</button>
+			</div>
+		<!--2--------------------------->
+			<div class="box-2">
+				<span>2</span>
+				<p class="heading">Honors</p>
+				<p class="details">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur.</p>
+				<button>Read More</button>
+			</div>
+		<!--3--------------------------->
+			<div class="box-3">
+				<span>3</span>
+				<p class="heading">Services</p>
+				<p class="details">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur.</p>
+				<button>Read More</button>
+			</div>
+		</div>
+	</div>
+<!--Contact Me-------------------------------->
+	<div class="contact-me">
+		<p>If You Need More Information About Me</p>
+		<button>Contact Me</button>
+	</div>
+<!--footer------------------------------------->
+	<footer>
+		<p>aaaaaaaaaaaaaaaaaaaaaa</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		</p>
+		<!--social---------------------------->
+			<div class="social-icons">
+				<a href="#"><i class="fab fa-facebook"></i></a>
+				<a href="#"><i class="fab fa-twitter"></i></a>
+				<a href="#"><i class="fab fa-instagram"></i></a>
+				<a href="#"><i class="fab fa-youtube"></i></a>
+			</div>
+		<!--copyright------------------------->
+			<p class="copyright">Copyright by Nianhuan Chen</p>
+	</footer>
+	<!--attached social bar------------>
+			<div class="a-social-b">
+				<a href="#"><i class="fab fa-facebook"></i></a>
+				<a href="#"><i class="fab fa-twitter"></i></a>
+				<a href="#"><i class="fab fa-instagram"></i></a>
+				<a href="#"><i class="fab fa-youtube"></i></a>
+			</div>
+</body>
+</html>
